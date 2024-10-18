@@ -1,59 +1,53 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+# Agriculture Crop Price Prediction Using Machine Learning Technique
+# Introduction:
+Agriculture is a cornerstone of global food production and security.Accurate crop price prediction in agriculture markets is essential for farmers, traders, and policymakers to make informed decisions. This project presents the development of web application using flask,incorporating advanced machine learning methods to predict the agricultural crop price prediction. The application leverages machine learning like , XG boosting ,CAT boosting , Ada boosting , RandomForest Regressor is trained on historical agricultural data to forecastcrop prices based on various input factors, including weather
+conditions, crop types, and historical trends.
 
-## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+# Requirements:
+## Software Specification:
+- Python IDLE.
+- Programming: Python ,HTML.
+- Library Packages: NumPy,Pandas,Matplot.
 
-## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+## Hardware Specification:
+- OS - Windows 7, 8 and 10(32 and 64 bit)
+- RAM - 4GB
 
-## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+# Existing System:
+In existing system, The price is predicted using the well-known algorithms such as the Partial Least Square (PLS), Autoregressive Integrated Moving Average (ARIMA) and the Artificial Neural Network (ANN).
 
-## System Architecture
-<!--Embed the system architecture diagram as shown below-->
+# Proposed System:
+In crop price analysis, Data mining is emerging as an important research technique.There are various data mining techniques such as Boosting and regression models, which are commonly used for recent applications.This project will resolve the problem of crop price prediction, that could
+be solved only based on the available data.This work is based on finding suitable data models that helps in achieving high accuracy and overview for price prediction. For solving this problem,different Data Mining techniques were evaluated on different data sets.
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+# Proposed Methodology:
+- Data Collection
+- Data Preprocessing
+- Feature Extraction (Correlations)
+- Evaluation Metric
+- Integration and Testing
+- Deployment and Maintenance
 
-
-## Output
-
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
-
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
-
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
-
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+# System Architecture:
+![image-5](https://github.com/user-attachments/assets/b45225bf-3b64-43cd-bb31-f42b01cb055d)
 
 
-## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
-
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
-
-## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+# Flow Chart:
+![image-6](https://github.com/user-attachments/assets/5219c68b-2f39-44bc-91a7-95bdcddf9b16)
 
 
+# Result & Implications:
+– Accurate Price Forecasting
+– Improved Decision-Making for Farmers
+– Better Risk Management
+– Reduced healthcare costs
 
+# Conclusion:
+The research aims at predicting the price and forecast through backend application and it is runs on efficient machine learning algorithms and technologies having an good accuracy. The training datasets so obtained provide the enough insights for predicting the appropriate price and demand in the markets. Thus, the system helps the farmers in reducing their difficulties and stop them by attempting
+suicides.
 
+# References:
+1. Kumar, A., Garg, A., & Agarwal, D. (2021).
+"A Comprehensive Study of Machine Learning Techniques for Crop Price Prediction“ Journal of Agriculture and Environmental Sciences, 10(3), 45-59.
+2. Verma, P., Shukla, S., & Joshi, S. (2020).
+"Crop Price Forecasting Using Machine Learning Algorithms: A Case Study of Indian Agriculture“ International Journal of Applied Agricultural Research, 16(2), 1-12.
